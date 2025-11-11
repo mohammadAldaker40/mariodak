@@ -1,0 +1,84 @@
+{
+  "brand": "Maria Al-daker",
+  "navigation": {
+    "about": "About",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Maria Al-daker",
+    "title": "Principal Architect",
+    "tagline": "Creating innovative architectural solutions that balance form, function, and environmental responsibility"
+  },
+  "about": {
+    "heading": "Excellence Through Vision",
+    "designApproachLabel": "Design Approach",
+    "designApproachQuote": "Architecture is the intersection of innovation, sustainability, and human experience—where every detail matters.",
+    "p1": "With over 15 years of experience in architectural design and urban planning, I specialize in creating sustainable, innovative solutions that meet the evolving needs of modern businesses and communities.",
+    "p2": "My practice focuses on integrating cutting-edge technology with timeless design principles, delivering projects that are both functionally superior and aesthetically compelling.",
+    "p3": "Recognized with industry awards, my work is grounded in rigor, care, and a passion for human-centered design."
+  },
+  "testimonialsSection": { "label": "Testimonials", "heading": "Client Experiences" },
+  "contact": {
+    "label": "Get In Touch",
+    "heading": "Let's Create Together",
+    "intro": "Have a project in mind? I'd love to hear about your vision and explore how we can bring it to life.",
+    "info": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "office": "Office",
+    "address": "123 Design Street, New York, NY 10001",
+    "follow": "Follow Me",
+    "form": {
+      "name": "Name",
+      "namePh": "Your name",
+      "email": "Email",
+      "emailPh": "your.email@example.com",
+      "phone": "Phone",
+      "phonePh": "+1 (234) 567-890",
+      "message": "Message",
+      "messagePh": "Tell me about your project...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you for your message! I will get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "footer": "All rights reserved."
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "heading": "Featured Projects",
+    "intro": "A curated selection of residential, commercial, and interior design projects that showcase our commitment to excellence and innovation.",
+    "categories": {
+      "all": "All Projects",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "interior": "Interior Design"
+    }
+  },
+  "services": [
+    { "title": "Branding", "desc": "Visual identity systems that resonate with your core values." },
+    { "title": "Motion Design", "desc": "Story-driven motion graphics that inform and enchant." },
+    { "title": "Printing", "desc": "Beautiful print assets that extend your brand in the real world." },
+    { "title": "Creative Content", "desc": "Social-ready designs that click, share, and engage." },
+    { "title": "Video Production", "desc": "From raw footage to polished storytelling." },
+    { "title": "Audio", "desc": "Sonic branding and production that defines your voice." }
+  ],
+  "stats": [
+    { "value": "8+", "label": "Years of Experience" },
+    { "value": "91+", "label": "Projects Completed" },
+    { "value": "3.3K+", "label": "Minutes Produced" },
+    { "value": "49+", "label": "Satisfied Clients" }
+  ],
+  "projects": [
+    { "id": "p1", "title": "Skyline Pavilion", "description": "A contemporary commercial landmark with glass fins and shaded terraces for civic events.", "category": "commercial", "image": "/modern-glass-office.png" },
+    { "id": "p2", "title": "Harbor Retreat", "description": "Warm residential sanctuary embracing waterfront views with passive cooling strategies.", "category": "residential", "image": "/modern-waterfront-house-architecture.jpg" },
+    { "id": "p3", "title": "Tech Innovation Hub", "description": "Flexible research campus focused on daylighting, courtyards, and modular collaboration zones.", "category": "commercial", "image": "/modern-tech-campus-building.jpg" },
+    { "id": "p4", "title": "Coastal Minimal House", "description": "Low-profile residential design featuring natural stone, timber, and framed ocean vistas.", "category": "residential", "image": "/minimalist-coastal-villa-architecture.jpg" },
+    { "id": "p5", "title": "Executive Studio Lounge", "description": "Calm interior palette with layered lighting, crafted millwork, and acoustic comfort.", "category": "interior", "image": "/luxury-executive-office-interior.jpg" },
+    { "id": "p6", "title": "Industrial Loft Gallery", "description": "Adaptive reuse interior with exposed structure, polished concrete, and curated art walls.", "category": "interior", "image": "/modern-industrial-loft-interior.jpg" }
+  ]
+}
+
+
