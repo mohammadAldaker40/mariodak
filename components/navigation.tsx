@@ -123,9 +123,9 @@ export function Navigation() {
               {t("navigation.contact")}
             </button>
             <div className="flex items-center gap-2 pt-2">
-              <Button variant="outline" size="sm" onClick={() => setLocale(locale === "en" ? "ar" : "en")}>
+              {/* <Button variant="outline" size="sm" onClick={() => setLocale(locale === "en" ? "ar" : "en")}>
                 {locale === "en" ? "AR" : "EN"}
-              </Button>
+              </Button> */}
               <Button
                 variant="ghost"
                 size="icon"
